@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 import time
 
 # Initialize the language model and output parser
-llm = Ollama(model="llama3.1:8b")
+llm = Ollama(model="llama2")
 output_parser = StrOutputParser()
 
 
