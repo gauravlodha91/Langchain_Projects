@@ -1,0 +1,131 @@
+What is AI transformation?
+AI transformation is a strategic initiative whereby a business adopts and integrates artificial intelligence (AI) into its operations, products and services to drive innovation, efficiency and growth. AI transformation optimizes organizational workflows by using a range of AI models and other technologies to create a continuously evolving and agile business.
+
+AI transformations employ machine learning and deep learning modelsfor example, computer vision, natural language processing (NLP), and generative AItogether with other technologies to create systems that can:
+
+Automate manual tasks and repetitive administrative work.
+Modernize apps and IT with code generation.
+Provide data-driven insights and decision-making support by using advanced analytics.
+"Learn" from data to improve accuracy and performance over time.
+Improve the customer experience with personalization and chatbots.
+As advancements in AI accelerate, AI transformation has become a significant factor in a business long-term success. According to "Augmented work for an automated, AI-driven world", a recent report from the IBM Institute for Business Value, organizations that integrate AI into their transformation journey more frequently outperform their competitors.
+
+Typically, an AI transformation is a more holistic endeavor than the simple replication of existing business processes with new technologies. A well-crafted AI transformation strategy has the capacity to create entirely new ways of doing business, increase productivity and facilitate sustainable growth. To realize and scale the technology, AI transformations often require businesses to change their strategies and cultures. 
+
+ 
+
+Report
+Discover how to choose the right AI foundation model
+Get the report 
+Related content
+Subscribe to the Think Newsletter
+
+Technologies in AI transformation
+An AI transformation strategy can involve any number of technologies, often requiring a broad toolkit of solutions. The specific AI tools deployed often depend on an organization's targeted business goals. Some of the most common technologies used in an AI transformation include:
+
+Natural language processing
+NLP enables computers to process human language in text or audio form. It can be used to facilitate intelligent search, analyze consumer sentiment on social media, convert material from one language to another, summarize content, or extract relevant information from large data sets.
+
+Computer vision
+With computer vision, systems can glean meaningful information from digital images or videos by using algorithms and other technologies. Applications include image classification, image-based search and object detection and search. Examples of using computer vision include identifying machinery that requires maintenance or automatically tagging images with relevant metadata.
+
+OCR and digitization
+Optical character recognition (OCR) recognizes printed or handwritten texts and converts them into a machine-readable format. OCR is widely used in digitization efforts to make unwieldy document collections simpler to edit, store, and search. OCR-converted data sets can support training and tuning AI models.
+
+IoT integrations
+IoT integrations include geolocation, which identifies the longitudinal and latitudinal location of a connected device. Geolocation supports location-specific customer interactions like zone-based pricing or targeted marketing. In an operational capacity, it can facilitate AI-assisted route planning or supply chain optimization by tracking assets and goods that are outfitted with sensors and connected to the Internet-of-Things (IoT).
+
+Automation
+Through automation, machines perform repetitive tasks and processes with little to no human input. Intelligent automation, or AI-assisted automation, has a wide variety of uses in a business context, including AIOps and complex business process management.
+
+Expert systems and decision support
+A decision support system helps decision-makers solve unstructured problems, while an expert system solves a particular and often difficult problem. Both provide organizations with rapid, data-driven insights based on large datasets that are difficult for a single person to absorb.  
+
+Generative AI
+Generative AI is a set of AI technologies that create original contentsuch as text, images, video, audio or software codein response to a users prompt or request. Gen AI relies on deep learning models that simulate the human brain. In consumer-facing applications, generative AI can create personalized content in real-time. Back-office uses include employee-facing AI assistants, code-generation software and product development and testing.
+
+Big data analytics
+Big data analytics uses large amounts of data, requiring advanced analysis techniques, such as machine learning and data mining, to extract meaningful information and value. Big data is used to train AI models, and is typically processed in a data lakehouse, where it is collected, cleaned and analyzed. 
+
+How to develop a targeted AI strategy 
+Organizations that embrace an AI-first mentality, rather than digitizing their business process, stand to gain a significant competitive advantage in the rapidly changing business ecosystem. And while no single standard playbook for an AI journey exists, common considerations during the early planning stages of an AI transformation include:
+
+Strategy and value: What are the use cases and objectives for an AI transformation? Which workflows are augmented, and what are the internal metrics for success?
+Technology and data: Which models, data and deployment strategies are best suited to the organizations strategy?
+Experience design: How will users, both internal and external, interact with AI?
+Operating models: How will an organization scale new technologies across their business?
+Talent and culture: How will an organization embrace a culture of AI through its training, upskilling and hiring?
+Stages of AI transformation
+AI transformation is a dynamic process. AI use cases and implementations look different for every company. But before an organization trains and deploys an AI, it typically follows the following planning processes to help ensure the effectiveness of its strategy:
+
+Information gathering: During this stage, an organization performs research to gain an understanding of such tools as generative AI, machine leaning, computer vision and other technologies. During this exploratory phase, stakeholders might list business problems AI can address and outline what benefits might be gained. 
+
+Assessing current resources and limitations: Before making a comprehensive plan, an organization typically audits its existing business, reviewing the capacity of its IT department and data practices. 
+
+Defining objectives: During this phase, the organization identifies which specific problems it hopes to solve, and how success will be measured during implementation. 
+
+Building a roadmap: In creating a roadmap, the organization chooses AI projects based on practical needs, determining what kind of support might be requiredand which partners or vendors with AI-specific expertise should be involved. 
+
+Once these strategic planning phases have been completed, the designing, building, training, validating and tuning of an AI model can begin. Some stages that facilitate a responsible and effective AI deployment include: 
+
+Collecting and managing data.
+Organizing data.
+Building, training and tuning AI models.
+Automating workflows and adding AI to applications.
+Infusing AI across an enterprise.
+Collecting and managing data
+The first phase of AI transformation identifies and harnesses the raw data that is used to train and tune an AI. It also involves determining what third-party data might be used. Often, organizations are limited by rigid architectures and data silos that require a foundational reorganization.
+
+This process might include pulling data from various departments and subdivisions, digitizing existing records or implementing a more robust data management system. As this process requires fluency with data science, it might require hiring specialists or upskilling in-house employees.
+
+Organizing data
+Data quality and strong data governance practices are the backbone of a successful AI transformation. During this process, an organization helps ensure the accuracy and cleanliness of its data pipeline along with its findability and governing rules. This might involve automating select workflows with DataOps tools, optimizing data warehouses and infrastructure, and investing in data management solutions such as a data lakehouse.
+
+During the organizational phase, business leaders also determine who owns the data, the data security measures in place, and the conditions for using the data. This process creates a self-service pipeline making data accessible to the right people at the right time.
+
+Building, training and tuning AI models
+Using this clean and organized data, a business can build, train, validate and tune its AI models. With sufficient internal AI engineering talent, this process can be completed in-house. Many organizations opt to collaborate with third-party vendors with a track record of success.
+
+During this phase, AI models learn from large data sets and are fine-tuned on smaller, task-specific data sets. After this initial development and testing period, validation and testing workflows are ongoing, facilitating consistency as the model continues to learn.
+
+Automating workflows and adding AI to applications
+When the AI is ready, its integrated into previously identified workflows and applications across an enterprise. Typically, AI is used with other technologies and techniques, and deploying AI involves collaboration between IT, engineering and infrastructure teams along with other stakeholders. As AI augments routine business processes and becomes part of a business day-to-day operations, a strong change management strategy might be necessary as roles shift across an organization.
+
+Infusing AI across an enterprise
+With the foundation of a strong automation and intelligent application practice, organizations can build AI more deeply into their business and transform how the company works. As employees expense less time on routine tasks, organization-wide changes might be required to encourage more creative and valuable labor from human partners. And at this level, more complex workflows can be entirely replaced by a combination of AI-powered tools.
+
+The AI transformation might also include AI-assisted analysis of enterprise-level business practices, for example through delivering insights about consumer behavior or advanced forecasting. With AI fully baked into the business, an organization can also automate the AI lifecycle, increasing the speed of experimentation and building purpose-specific models faster.
+
+AI transformation use cases
+An AI transformation can improve performance across every aspect of a business. Adoption allows organizations to automate administrative tasks, facilitate hyperpersonalized customer experiences and modernize the IT process by automatically generating code.
+
+Some use case examples include: 
+
+IT modernization
+Customer service workflow
+Supply chain
+HR and talent management 
+Sales and marketing 
+Core business operations 
+IT modernization
+AI models have a vast number of applications in IT processes and operations. AI can rapidly increase IT agility and address complex processes such as app modernization and platform engineering.
+
+For example, generative AI can generate code, convert code from one language to another, reverse-engineer code, and drive transformation planning.
+
+These tools can also provide augmented site reliability engineering for developers and automate testing processesultimately streamlining the IT process and allowing employees to focus on more creative and human-centric tasks.
+
+Read more about AI in app modernization 
+Customer service workflows
+Generative AI can transform the way customer experience is delivered, differentiating a business and giving it a competitive edge. AI tools can present customized recommendations, handle customer support at any hour of the day, and seamlessly create personalized content such as social media posts, personalized messages or website copy.
+
+By analyzing large volumes of data and analyzing sentiment, AI can identify patterns to make predictions about consumer behavior in the future. For example, a bank might provide personalized, automated portfolio management services, or a government might automatically convert correspondences into multiple languages.  
+
+Read more about AI in customer service 
+Supply chain
+Using AI, businesses can automate the source-to-pay process and manage resource needs, reducing inefficiency and waste. For example, AI tools can triage deliveries, selecting the most cost-effective and environmentally sustainable ways to fulfill orders, or analyze historical data to predict demand.
+
+AI-driven order intelligence systems have the capacity to provide rapid insights into order management workflows, allowing business leaders to identify potential disruptions or identify problems before they arise. When combined with digital twins that replicate real-world processes or pieces of equipment, AI can optimize processes like maintenance and scheduling for increased efficiency.
+
+Read more about generative AI in supply chains 
+HR and talent management 
+AI capabilities can increase efficiency and employee experience across the HR lifecycle, from improving the candidate experience to providing personalized high-quality career development advice. Using AI, businesses can automate repetitive but critical talent acquisition tasks such as job postings and interview scheduling. For current employees, AI can offer personalized feedback like performance reviews or manage requests for time off through chatbots, allowing HR leaders to focus on higher-value work.

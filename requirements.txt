@@ -7,3 +7,4 @@ ipykernel
 langchain_cohere
 langchain_chroma
 pypdf
+python-dotenv
